@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\BarRating\\DataLayer\\DataLayer.csproj": {}
+    "D:\\Github\\it-kariera-exam\\BarRating\\DataLayer\\DataLayer.csproj": {}
   },
   "projects": {
-    "D:\\Github\\BarRating\\DataLayer\\DataLayer.csproj": {
+    "D:\\Github\\it-kariera-exam\\BarRating\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\BarRating\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "D:\\Github\\it-kariera-exam\\BarRating\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "D:\\Github\\BarRating\\DataLayer\\DataLayer.csproj",
+        "projectPath": "D:\\Github\\it-kariera-exam\\BarRating\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\BarRating\\DataLayer\\obj\\",
+        "outputPath": "D:\\Github\\it-kariera-exam\\BarRating\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

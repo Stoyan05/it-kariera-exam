@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z54oMSJ3mO5iJWAaiECe/Sc26mihk0c6SHTszGiJhracsWnGWews9KfptJnvhNVjxlePl+AQBV/zaVpVpf1FzQ==",
+  "dgSpecHash": "BtKiqyH9LLK3dOxj6+Idg6i4OWC33luy/HhOHvUffojuraVZ/a0cwEaxNUgXNGzer8H36g86y3YZyuLGHzLCfg==",
   "success": true,
-  "projectFilePath": "D:\\Github\\BarRating\\BarRating\\BarRating.csproj",
+  "projectFilePath": "D:\\Github\\it-kariera-exam\\BarRating\\BarRating\\BarRating.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

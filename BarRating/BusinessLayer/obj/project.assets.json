@@ -4546,11 +4546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\BarRating\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "D:\\Github\\it-kariera-exam\\BarRating\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "D:\\Github\\BarRating\\BusinessLayer\\BusinessLayer.csproj",
+      "projectPath": "D:\\Github\\it-kariera-exam\\BarRating\\BusinessLayer\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\BarRating\\BusinessLayer\\obj\\",
+      "outputPath": "D:\\Github\\it-kariera-exam\\BarRating\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4567,8 +4567,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Github\\BarRating\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "D:\\Github\\BarRating\\DataLayer\\DataLayer.csproj"
+            "D:\\Github\\it-kariera-exam\\BarRating\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "D:\\Github\\it-kariera-exam\\BarRating\\DataLayer\\DataLayer.csproj"
             }
           }
         }

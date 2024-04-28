@@ -17,175 +17,175 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BarRating
 build_property.RootNamespace = BarRating
-build_property.ProjectDir = D:\Github\BarRating\BarRating\
+build_property.ProjectDir = D:\Github\it-kariera-exam\BarRating\BarRating\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Github\BarRating\BarRating
+build_property.MSBuildProjectDirectory = D:\Github\it-kariera-exam\BarRating\BarRating
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/Account/Login.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/Account/Logout.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/Account/Register.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/_ViewImports.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Admin/AdminStartPage.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Admin/AdminStartPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5TdGFydFBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Bar/Create.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Bar/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Bar/CreateReview.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Bar/CreateReview.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyXENyZWF0ZVJldmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Bar/Delete.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Bar/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Bar/Details.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Bar/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Bar/Edit.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Bar/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Bar/Index.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Bar/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Bar/ListAll.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Bar/ListAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyXExpc3RBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Bar/Search.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Bar/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyXFNlYXJjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Home/Index.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Home/Privacy.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Reviews/Create.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Reviews/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Reviews/Details.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Reviews/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Reviews/Edit.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Reviews/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Shared/Error.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Shared/_LayoutForAdmin.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Shared/_LayoutForAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRGb3JBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Shared/_LoginPartial.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/User/Delete.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/User/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/User/Details.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/User/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/User/Edit.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/User/ListAll.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/User/ListAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMaXN0QWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/_ViewImports.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/_ViewStart.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/BarRating/BarRating/Views/Shared/_Layout.cshtml]
+[D:/Github/it-kariera-exam/BarRating/BarRating/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3bkagkdk25

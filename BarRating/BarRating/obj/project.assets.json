@@ -8914,11 +8914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\BarRating\\BarRating\\BarRating.csproj",
+      "projectUniqueName": "D:\\Github\\it-kariera-exam\\BarRating\\BarRating\\BarRating.csproj",
       "projectName": "BarRating",
-      "projectPath": "D:\\Github\\BarRating\\BarRating\\BarRating.csproj",
+      "projectPath": "D:\\Github\\it-kariera-exam\\BarRating\\BarRating\\BarRating.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\BarRating\\BarRating\\obj\\",
+      "outputPath": "D:\\Github\\it-kariera-exam\\BarRating\\BarRating\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8935,11 +8935,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Github\\BarRating\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "D:\\Github\\BarRating\\BusinessLayer\\BusinessLayer.csproj"
+            "D:\\Github\\it-kariera-exam\\BarRating\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "D:\\Github\\it-kariera-exam\\BarRating\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "D:\\Github\\BarRating\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "D:\\Github\\BarRating\\DataLayer\\DataLayer.csproj"
+            "D:\\Github\\it-kariera-exam\\BarRating\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "D:\\Github\\it-kariera-exam\\BarRating\\DataLayer\\DataLayer.csproj"
             }
           }
         }

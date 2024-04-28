@@ -99,5 +99,6 @@ namespace BarRating.Controllers
             var reviews = await _reviewServices.ViewAllBarsReviews(barId);
             return View(details, new ReviewModel { Reviews = reviews,  /*BarName = bar.Name,*/ BarId = barId, UserId = userId});
         }
+        
     }
 }

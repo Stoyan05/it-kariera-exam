@@ -104,5 +104,12 @@ namespace BusinessLayer.Services
             return result;
 
         }
+        public IQueryable ViewMyReviews()
+        {
+            var result = from a in _context.Reviews.Include(l => l.Bar)
+                         select a;
+            return result;
+
+        }
     }
 }
