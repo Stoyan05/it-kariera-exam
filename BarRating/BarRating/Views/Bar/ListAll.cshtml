@@ -1,0 +1,62 @@
+﻿@model AdminModel
+
+@{
+    ViewData["Title"] = "ListAll";
+    
+}
+
+<h1>ListAll</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BarId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Bars.Count != 0)
+        {
+            @foreach (var item in Model.Bars)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BarId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Image)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.BarId, name = item.Description, description = item.Description, image = item.Image }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.BarId, name = item.Description, description = item.Description, image = item.Image }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.BarId, name = item.Description, description = item.Description, image = item.Image })
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <p>No bars found.</p>
+        }
+    </tbody>
+</table>

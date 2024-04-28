@@ -1,0 +1,61 @@
+﻿@model UsersModel;
+
+@{
+    ViewData["Title"] = "ListAll";
+}
+
+<h1>ListAll</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Users.Count != 0)
+        {
+            @foreach (var item in Model.Users)
+            {
+                <tr>
+                    <td>
+                        @item.FirstName
+                    </td>
+                    <td>
+                        @item.LastName
+                    </td>
+                    <td>
+                        @item.UserName
+                    </td>
+                    <td>
+                        <form asp-controller="User" asp-action="EditPost">Edit
+                            <input type="hidden" value="@item.Id" asp-for="Id" />
+                            <input type="text" value="@item.FirstName" asp-for="FirstName" />
+                            <input type="text" value="@item.LastName" asp-for="LastName" />
+                            <input type="text" value="@item.UserName" asp-for="UserName" />
+                            <button type="submit">edit</button>
+                        </form>|
+                        @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <p>No bars found.</p>
+        }
+    </tbody>
+</table>

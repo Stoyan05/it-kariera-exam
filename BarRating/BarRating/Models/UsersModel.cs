@@ -1,0 +1,13 @@
+﻿using DataLayer.Data.Entities;
+
+namespace BarRating.Models
+{
+    public class UsersModel
+    {
+        public List<User> Users { get; set; }
+        public string Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string UserName { get; set; }
+    }
+}

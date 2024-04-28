@@ -1,0 +1,34 @@
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.runtimeconfig.json
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\bin\Debug\net8.0\DataLayer.dll
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CopyComplete
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.genruntimeconfig.cache
+D:\Aneliya\My Projects\BarRating - exam\BarRating\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+D:\Github\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+D:\Github\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.runtimeconfig.json
+D:\Github\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+D:\Github\BarRating\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+D:\Github\BarRating\BusinessLayer\bin\Debug\net8.0\DataLayer.dll
+D:\Github\BarRating\BusinessLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\Github\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\Github\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Github\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+D:\Github\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Github\BarRating\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+D:\Github\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+D:\Github\BarRating\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+D:\Github\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+D:\Github\BarRating\BusinessLayer\obj\Debug\net8.0\BusinessLayer.genruntimeconfig.cache
+D:\Github\BarRating\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

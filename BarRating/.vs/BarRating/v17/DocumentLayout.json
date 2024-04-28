@@ -1,0 +1,886 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\BarRating\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\bar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\bar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\reviews\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\reviews\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\reviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\reviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\controllers\\barcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\controllers\\barcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\bar\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|d:\\github\\barrating\\businesslayer\\services\\reviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\reviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\bar\\listall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\listall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\bar\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\bar\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\bar\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\bar\\createreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\bar\\createreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\user\\listall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\user\\listall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\admin\\adminstartpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\admin\\adminstartpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\shared\\_layoutforadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\shared\\_layoutforadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|d:\\github\\barrating\\businesslayer\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|d:\\github\\barrating\\businesslayer\\services\\barservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\barservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|d:\\github\\barrating\\datalayer\\bardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\bardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|d:\\github\\barrating\\datalayer\\data\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\data\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|d:\\github\\barrating\\datalayer\\data\\entities\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\data\\entities\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|d:\\github\\barrating\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|d:\\github\\barrating\\datalayer\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|d:\\github\\barrating\\datalayer\\migrations\\20240428084122_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20240428084122_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|d:\\github\\barrating\\datalayer\\migrations\\bardbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\bardbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|d:\\github\\barrating\\barrating\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD42F3-0FDF-43C5-AF29-FD58032294D7}|BarRating\\BarRating.csproj|solutionrelative:barrating\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|d:\\github\\barrating\\businesslayer\\idbcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\idbcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|d:\\github\\barrating\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F7F94C2-277B-42BD-9899-FBB89AD28624}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|d:\\github\\barrating\\datalayer\\data\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D2805B-3710-4A73-BB8E-C3A126282137}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\data\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BarController.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Controllers\\BarController.cs",
+              "RelativeDocumentMoniker": "BarRating\\Controllers\\BarController.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Controllers\\BarController.cs",
+              "RelativeToolTip": "BarRating\\Controllers\\BarController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwHIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Reviews\\Create.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Reviews\\Create.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Reviews\\Create.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Reviews\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReviewModel.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Models\\ReviewModel.cs",
+              "RelativeDocumentMoniker": "BarRating\\Models\\ReviewModel.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Models\\ReviewModel.cs",
+              "RelativeToolTip": "BarRating\\Models\\ReviewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListAll.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\ListAll.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\ListAll.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\ListAll.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\ListAll.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\Search.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\Search.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\Search.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\Details.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\Details.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\Details.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BarRating\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BarRating\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\Create.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\Create.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\Create.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\Index.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\Index.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\Index.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\Index.cshtml",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAHkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReviewServices.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BusinessLayer\\Services\\ReviewServices.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\ReviewServices.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BusinessLayer\\Services\\ReviewServices.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\ReviewServices.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAMwF4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Reviews\\Details.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Reviews\\Details.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Reviews\\Details.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Reviews\\Details.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "BarRating\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "BarRating\\Controllers\\ReviewController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwEAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Reviews\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Reviews\\Edit.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Reviews\\Edit.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Reviews\\Edit.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAABkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\Edit.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\Edit.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\Delete.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\Delete.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateReview.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\CreateReview.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Bar\\CreateReview.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Bar\\CreateReview.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Bar\\CreateReview.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\User\\Delete.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\User\\Details.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ListAll.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\User\\ListAll.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\User\\ListAll.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\User\\ListAll.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\User\\ListAll.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminStartPage.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Admin\\AdminStartPage.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Admin\\AdminStartPage.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Admin\\AdminStartPage.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Admin\\AdminStartPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LayoutForAdmin.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Shared\\_LayoutForAdmin.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Shared\\_LayoutForAdmin.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Shared\\_LayoutForAdmin.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Shared\\_LayoutForAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BarRating\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BarRating\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BarRating\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BarRating\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-28T20:50:22.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BarRating\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BarRating\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsersModel.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Models\\UsersModel.cs",
+              "RelativeDocumentMoniker": "BarRating\\Models\\UsersModel.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Models\\UsersModel.cs",
+              "RelativeToolTip": "BarRating\\Models\\UsersModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BusinessLayer\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\UserServices.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BusinessLayer\\Services\\UserServices.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\UserServices.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAD4v40AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BarServices.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BusinessLayer\\Services\\BarServices.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\BarServices.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BusinessLayer\\Services\\BarServices.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\BarServices.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswGYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BarDbContext.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\DataLayer\\BarDbContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\BarDbContext.cs",
+              "ToolTip": "D:\\Github\\BarRating\\DataLayer\\BarDbContext.cs",
+              "RelativeToolTip": "DataLayer\\BarDbContext.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAABRwEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\DataLayer\\Data\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Data\\Entities\\Review.cs",
+              "ToolTip": "D:\\Github\\BarRating\\DataLayer\\Data\\Entities\\Review.cs",
+              "RelativeToolTip": "DataLayer\\Data\\Entities\\Review.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Models\\AdminModel.cs",
+              "RelativeDocumentMoniker": "BarRating\\Models\\AdminModel.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Models\\AdminModel.cs",
+              "RelativeToolTip": "BarRating\\Models\\AdminModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAqwKkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Program.cs",
+              "RelativeDocumentMoniker": "BarRating\\Program.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Program.cs",
+              "RelativeToolTip": "BarRating\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Bar.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\DataLayer\\Data\\Entities\\Bar.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Data\\Entities\\Bar.cs",
+              "ToolTip": "D:\\Github\\BarRating\\DataLayer\\Data\\Entities\\Bar.cs",
+              "RelativeToolTip": "DataLayer\\Data\\Entities\\Bar.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAIBJwJIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAIBJwEAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DataLayer.csproj",
+              "DocumentMoniker": "D:\\Github\\BarRating\\DataLayer\\DataLayer.csproj",
+              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
+              "ToolTip": "D:\\Github\\BarRating\\DataLayer\\DataLayer.csproj",
+              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T20:50:22.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\DataLayer\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Data\\Entities\\User.cs",
+              "ToolTip": "D:\\Github\\BarRating\\DataLayer\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "DataLayer\\Data\\Entities\\User.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BarRating\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240428084122_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\DataLayer\\Migrations\\20240428084122_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240428084122_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\Github\\BarRating\\DataLayer\\Migrations\\20240428084122_InitialCreate.Designer.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240428084122_InitialCreate.Designer.cs",
+              "ViewState": "AQIAAH0BAAAAAAAAAAAWwIoBAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BarDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\DataLayer\\Migrations\\BarDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\BarDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Github\\BarRating\\DataLayer\\Migrations\\BarDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\BarDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAHoBAAAAAAAAAAAWwHoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:50:22.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAMwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PersonalData.cshtml.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwBIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA3wBgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DownloadPersonalData.cshtml.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAIAywDAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "BarRating\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAADwvxcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "D:\\Github\\BarRating\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T20:50:22.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IDbCRUD.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\BusinessLayer\\IDbCRUD.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\IDbCRUD.cs",
+              "ToolTip": "D:\\Github\\BarRating\\BusinessLayer\\IDbCRUD.cs",
+              "RelativeToolTip": "BusinessLayer\\IDbCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\Github\\BarRating\\DataLayer\\Data\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Data\\Enums\\Roles.cs",
+              "ToolTip": "D:\\Github\\BarRating\\DataLayer\\Data\\Enums\\Roles.cs",
+              "RelativeToolTip": "DataLayer\\Data\\Enums\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:50:22.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

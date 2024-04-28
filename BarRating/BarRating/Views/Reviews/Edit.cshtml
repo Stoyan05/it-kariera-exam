@@ -1,0 +1,70 @@
+﻿@model ReviewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Review</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @if(Model.Reviews.Count != 0)
+        {
+            foreach(var review in Model.Reviews)
+            {
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="ReviewId" type="hidden" class="control-label"></label>
+                        <input asp-for="ReviewId" type="hidden" value="@review.ReviewId" class="form-control" />
+                        <span asp-validation-for="ReviewId" type="hidden" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="UserId" type="hidden" class="control-label"></label>
+                        <input asp-for="UserId" type="hidden" class="form-control" />
+                        <span asp-validation-for="UserId" type="hidden" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="BarId" type="hidden" class="control-label"></label>
+                        <input asp-for="BarId" type="hidden" class="form-control" />
+                        <span asp-validation-for="BarId" type="hidden" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Text" class="control-label"></label>
+                        <input asp-for="Text" value="@review.Text" class="form-control" />
+                        <span asp-validation-for="Text" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Rating" class="control-label"></label>
+                        <input asp-for="Rating" value="@review.Rating" class="form-control" />
+                        <span asp-validation-for="Rating" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </form>
+                <div class="form-group">
+                    <form asp-action="Delete">
+                        <input type="hidden" name="reviewId" value="@review.ReviewId" />
+                        <input type="submit" value="Delete" class="btn btn-danger" />
+                    </form>
+                </div>
+            }
+        }
+        else
+        {
+            <p>No reviews found.</p>
+        }
+
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" asp-controller="Bar" asp-for="UserId" value="@Model.UserId">Back to Bar page</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
